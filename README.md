@@ -1,0 +1,2 @@
+# FreeBSD_etc
+对本机的FreeBSD版本的ETC文件夹进行映射
